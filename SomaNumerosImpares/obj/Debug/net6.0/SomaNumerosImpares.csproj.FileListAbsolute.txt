@@ -1,0 +1,15 @@
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\bin\Debug\net6.0\SomaNumerosImpares.exe
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\bin\Debug\net6.0\SomaNumerosImpares.deps.json
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\bin\Debug\net6.0\SomaNumerosImpares.runtimeconfig.json
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\bin\Debug\net6.0\SomaNumerosImpares.dll
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\bin\Debug\net6.0\SomaNumerosImpares.pdb
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.csproj.AssemblyReference.cache
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.AssemblyInfo.cs
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.dll
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\refint\SomaNumerosImpares.dll
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.pdb
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\SomaNumerosImpares.genruntimeconfig.cache
+C:\Users\adm\source\repos\Estudo\ExerciciosEstruturaDeRepeticao\SomaNumerosImpares\obj\Debug\net6.0\ref\SomaNumerosImpares.dll
